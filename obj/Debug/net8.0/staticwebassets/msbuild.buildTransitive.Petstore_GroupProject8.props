@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Petstore_GroupProject8.props" />
+</Project>

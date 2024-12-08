@@ -1,0 +1,80 @@
+﻿@model IEnumerable<Petstore_GroupProject8.Models.Product>
+
+@{
+    ViewData["Title"] = "Product Catalog";
+    var selectedCategory = ViewBag.SelectedCategory as string;
+    var searchQuery = ViewBag.SearchQuery as string;
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-3">
+            <!-- Filtro de Categorías -->
+            <form asp-controller="Products" asp-action="ProductsCatalog" method="get">
+                <h5>Category</h5>
+
+                <select name="category" class="form-control mb-3" onchange="location.href='/products/' + this.value">
+                    @if (string.IsNullOrEmpty(selectedCategory) || selectedCategory.ToLower() == "all")
+                    {
+                        <option value="All" selected="selected">All Categories</option>
+                    }
+                    else
+                    {
+                        <option value="All">All Categories</option>
+                    }
+
+                    @foreach (var category in ViewBag.Categories)
+                    {
+                        if (selectedCategory == category)
+                        {
+                            <option value="@category" selected="selected">@category</option>
+                        }
+                        else
+                        {
+                            <option value="@category">@category</option>
+                        }
+                    }
+                </select>
+            </form>
+        </div>
+
+        <div class="col-md-9">
+            <div class="row align-items-center mb-4">
+                <!-- Búsqueda en la parte superior izquierda -->
+                <div class="col-md-6">
+                    <form asp-controller="Products" asp-action="ProductsCatalog" method="get">
+                        <div class="input-group">
+                            <input type="text" id="searchBar" name="search" class="form-control" placeholder="Search..." value="@searchQuery" />
+                            <input type="hidden" name="category" value="@selectedCategory" />
+                            <button type="submit" class="btn btn-outline-secondary">Search</button>
+                        </div>
+                    </form>
+                </div>
+                <!-- Ordenamiento en la parte superior derecha -->
+                <div class="col-md-6 d-flex justify-content-end">
+                    <div class="btn-group" role="group" aria-label="Sorting Options">
+                        <a asp-controller="Products" asp-action="ProductsCatalog" asp-route-category="@selectedCategory" asp-route-search="@searchQuery" asp-route-sortOrder="new" class="btn btn-outline-dark @(Context.Request.Query["sortOrder"] == "new" ? "active" : "")">New</a>
+                        <a asp-controller="Products" asp-action="ProductsCatalog" asp-route-category="@selectedCategory" asp-route-search="@searchQuery" asp-route-sortOrder="price_asc" class="btn btn-outline-dark @(Context.Request.Query["sortOrder"] == "price_asc" ? "active" : "")">Price Ascending</a>
+                        <a asp-controller="Products" asp-action="ProductsCatalog" asp-route-category="@selectedCategory" asp-route-search="@searchQuery" asp-route-sortOrder="price_desc" class="btn btn-outline-dark @(Context.Request.Query["sortOrder"] == "price_desc" ? "active" : "")">Price Descending</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row" id="productGrid">
+                @foreach (var product in Model)
+                {
+                    <div class="col-md-3 mb-4">
+                        <div class="card h-100">
+                            <img src="@Url.Content("~/img/products/" + product.ImageUrl)" class="card-img-top" alt="@product.Name" />
+                            <div class="card-body">
+                                <h5 class="card-title">@product.Name</h5>
+                                <p class="card-text">$@product.Price</p>
+                                <a href="@Url.Action("ProductDetails", "Products", new { id = product.ProductId })" class="btn btn-primary">View Product</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

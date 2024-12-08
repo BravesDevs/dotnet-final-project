@@ -1,0 +1,789 @@
+{
+  "Files": [
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/obj/Debug/net8.0/scopedcss/projectbundle/Petstore_GroupProject8.bundle.scp.css",
+      "PackagePath": "staticwebassets/Petstore_GroupProject8.zdp793txja.bundle.scp.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/css/main.css",
+      "PackagePath": "staticwebassets/css/main.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/apple-touch-icon.png",
+      "PackagePath": "staticwebassets/img/apple-touch-icon.png"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/blog/blog-1.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-1.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/blog/blog-2.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-2.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/blog/blog-3.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-3.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/blog/blog-4.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-4.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/blog/blog-5.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-5.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/blog/blog-6.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-6.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/blog/blog-author.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-author.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/blog/blog-inside-post.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-inside-post.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/blog/blog-recent-1.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-recent-1.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/blog/blog-recent-2.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-recent-2.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/blog/blog-recent-3.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-recent-3.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/blog/blog-recent-4.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-recent-4.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/blog/blog-recent-5.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-recent-5.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/blog/comments-1.jpg",
+      "PackagePath": "staticwebassets/img/blog/comments-1.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/blog/comments-2.jpg",
+      "PackagePath": "staticwebassets/img/blog/comments-2.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/blog/comments-3.jpg",
+      "PackagePath": "staticwebassets/img/blog/comments-3.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/blog/comments-4.jpg",
+      "PackagePath": "staticwebassets/img/blog/comments-4.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/blog/comments-5.jpg",
+      "PackagePath": "staticwebassets/img/blog/comments-5.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/blog/comments-6.jpg",
+      "PackagePath": "staticwebassets/img/blog/comments-6.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/favicon.png",
+      "PackagePath": "staticwebassets/img/favicon.png"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/hero_1.jpg",
+      "PackagePath": "staticwebassets/img/hero_1.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/hero_2.jpg",
+      "PackagePath": "staticwebassets/img/hero_2.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/hero_3.jpg",
+      "PackagePath": "staticwebassets/img/hero_3.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/hero_4.jpg",
+      "PackagePath": "staticwebassets/img/hero_4.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/hero_5.jpg",
+      "PackagePath": "staticwebassets/img/hero_5.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/img_long_5.jpg",
+      "PackagePath": "staticwebassets/img/img_long_5.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/img_sq_1.jpg",
+      "PackagePath": "staticwebassets/img/img_sq_1.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/img_sq_3.jpg",
+      "PackagePath": "staticwebassets/img/img_sq_3.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/img_sq_4.jpg",
+      "PackagePath": "staticwebassets/img/img_sq_4.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/img_sq_5.jpg",
+      "PackagePath": "staticwebassets/img/img_sq_5.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/img_sq_6.jpg",
+      "PackagePath": "staticwebassets/img/img_sq_6.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/img_sq_8.jpg",
+      "PackagePath": "staticwebassets/img/img_sq_8.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/logo.png",
+      "PackagePath": "staticwebassets/img/logo.png"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/page-title-bg.webp",
+      "PackagePath": "staticwebassets/img/page-title-bg.webp"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/products/bird_food_mix.jpg",
+      "PackagePath": "staticwebassets/img/products/bird_food_mix.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/products/cat_bed.jpg",
+      "PackagePath": "staticwebassets/img/products/cat_bed.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/products/cat_collar.jpg",
+      "PackagePath": "staticwebassets/img/products/cat_collar.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/products/cat_grooming_brush.jpg",
+      "PackagePath": "staticwebassets/img/products/cat_grooming_brush.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/products/cat_scratching_post.jpg",
+      "PackagePath": "staticwebassets/img/products/cat_scratching_post.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/products/cat_toy_mouse.jpg",
+      "PackagePath": "staticwebassets/img/products/cat_toy_mouse.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/products/dog_bed.jpg",
+      "PackagePath": "staticwebassets/img/products/dog_bed.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/products/dog_harness.jpg",
+      "PackagePath": "staticwebassets/img/products/dog_harness.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/products/dog_leash.jpg",
+      "PackagePath": "staticwebassets/img/products/dog_leash.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/products/dog_raincoat.jpg",
+      "PackagePath": "staticwebassets/img/products/dog_raincoat.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/products/dog_sweater.jpg",
+      "PackagePath": "staticwebassets/img/products/dog_sweater.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/products/dog_training_whistle.jpg",
+      "PackagePath": "staticwebassets/img/products/dog_training_whistle.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/products/dry_dog_food.jpg",
+      "PackagePath": "staticwebassets/img/products/dry_dog_food.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/products/fish_tank_decorations.jpg",
+      "PackagePath": "staticwebassets/img/products/fish_tank_decorations.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/products/hamster_wheel.jpg",
+      "PackagePath": "staticwebassets/img/products/hamster_wheel.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/products/pet_first_aid_kit.jpg",
+      "PackagePath": "staticwebassets/img/products/pet_first_aid_kit.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/products/pet_nail_clippers.jpg",
+      "PackagePath": "staticwebassets/img/products/pet_nail_clippers.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/products/pet_shampoo.jpg",
+      "PackagePath": "staticwebassets/img/products/pet_shampoo.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/products/pet_vitamins.jpg",
+      "PackagePath": "staticwebassets/img/products/pet_vitamins.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/products/training_pads.jpg",
+      "PackagePath": "staticwebassets/img/products/training_pads.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/team/team-1.jpg",
+      "PackagePath": "staticwebassets/img/team/team-1.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/team/team-2.jpg",
+      "PackagePath": "staticwebassets/img/team/team-2.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/team/team-3.jpg",
+      "PackagePath": "staticwebassets/img/team/team-3.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/team/team-4.jpg",
+      "PackagePath": "staticwebassets/img/team/team-4.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/testimonials/testimonials-1.jpg",
+      "PackagePath": "staticwebassets/img/testimonials/testimonials-1.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/testimonials/testimonials-2.jpg",
+      "PackagePath": "staticwebassets/img/testimonials/testimonials-2.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/testimonials/testimonials-3.jpg",
+      "PackagePath": "staticwebassets/img/testimonials/testimonials-3.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/img/testimonials/testimonials-4.jpg",
+      "PackagePath": "staticwebassets/img/testimonials/testimonials-4.jpg"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/scss/Readme.txt",
+      "PackagePath": "staticwebassets/scss/Readme.txt"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/aos/aos.cjs.js",
+      "PackagePath": "staticwebassets/vendor/aos/aos.cjs.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/aos/aos.css",
+      "PackagePath": "staticwebassets/vendor/aos/aos.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/aos/aos.esm.js",
+      "PackagePath": "staticwebassets/vendor/aos/aos.esm.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/aos/aos.js",
+      "PackagePath": "staticwebassets/vendor/aos/aos.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/aos/aos.js.map",
+      "PackagePath": "staticwebassets/vendor/aos/aos.js.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap-icons/bootstrap-icons.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/bootstrap-icons.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap-icons/bootstrap-icons.json",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/bootstrap-icons.json"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap-icons/bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/bootstrap-icons.min.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap-icons/bootstrap-icons.scss",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/bootstrap-icons.scss"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap-icons/fonts/bootstrap-icons.woff",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/css/prb.txt",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/prb.txt"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/js/bootstrap.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/bootstrap/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/glightbox/css/glightbox.css",
+      "PackagePath": "staticwebassets/vendor/glightbox/css/glightbox.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/glightbox/css/glightbox.min.css",
+      "PackagePath": "staticwebassets/vendor/glightbox/css/glightbox.min.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/glightbox/js/glightbox.js",
+      "PackagePath": "staticwebassets/vendor/glightbox/js/glightbox.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/glightbox/js/glightbox.min.js",
+      "PackagePath": "staticwebassets/vendor/glightbox/js/glightbox.min.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/php-email-form/validate.js",
+      "PackagePath": "staticwebassets/vendor/php-email-form/validate.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/swiper/swiper-bundle.min.css",
+      "PackagePath": "staticwebassets/vendor/swiper/swiper-bundle.min.css"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/swiper/swiper-bundle.min.js",
+      "PackagePath": "staticwebassets/vendor/swiper/swiper-bundle.min.js"
+    },
+    {
+      "Id": "/home/dev/Projects/DotNetProject/Petstore_GroupProject8/wwwroot/vendor/swiper/swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets/vendor/swiper/swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Petstore_GroupProject8.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Petstore_GroupProject8.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Petstore_GroupProject8.props",
+      "PackagePath": "build\\Petstore_GroupProject8.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Petstore_GroupProject8.props",
+      "PackagePath": "buildMultiTargeting\\Petstore_GroupProject8.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Petstore_GroupProject8.props",
+      "PackagePath": "buildTransitive\\Petstore_GroupProject8.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
