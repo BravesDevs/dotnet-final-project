@@ -541,3 +541,4 @@ C:/Users/pablo/source/repos/Petstore_GroupProject8/obj/Debug/net8.0/ref/Petstore
 /home/dev/Projects/DotNetProject/Petstore_GroupProject8/obj/Debug/net8.0/Petstore_GroupProject8.pdb
 /home/dev/Projects/DotNetProject/Petstore_GroupProject8/obj/Debug/net8.0/Petstore_GroupProject8.genruntimeconfig.cache
 /home/dev/Projects/DotNetProject/Petstore_GroupProject8/obj/Debug/net8.0/ref/Petstore_GroupProject8.dll
+/home/dev/Projects/DotNetProject/Petstore_GroupProject8/obj/Debug/net8.0/Petstore_GroupProject8.sourcelink.json
